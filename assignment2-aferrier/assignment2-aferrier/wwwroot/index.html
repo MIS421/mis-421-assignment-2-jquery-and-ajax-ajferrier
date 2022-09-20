@@ -1,0 +1,47 @@
+<!doctype html>
+
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="./css/style.css">
+    <script type="text/javascript" src="./js/script.js"></script>
+    <title id="Title">The Ultimate Search Engine</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js" integrity="sha384-i61gTtaoovXtAbKjo903+O55Jkn2+RtzHtvNez+yI49HAASvznhe9sZyjaSHTau9" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/jquery-ui.min.js" integrity="sha384-4D3G3GikQs6hLlLZGdz5wLFzuqE9v4yVGAcOH86y23JqBDPzj9viv0EqyfIa6YUL" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.13.2/themes/dot-luv/jquery-ui.css">
+
+
+
+
+</head>
+
+<body>
+    <div id="titlediv">
+        <h1 onClick="changeBackground()" id="Title">
+            The Ultimate Search Engine
+        </h1>
+    </div>
+
+    <div id="firstdiv">
+        <label id="inputlabel"></label>
+        <input id="query" type="text" name="query">
+    </div>
+    <div id="seconddiv">
+        <button onClick="callSearch()" id="search" value="Search" type="button">Search!</button>
+        <button onClick="getTime()" id="datetime" type="button">Get the Time</button>
+        <button onClick="testModal()" id="showtime" type="button">Get the Time</button>
+        <button onClick="callimFeelingLucky()" id="lucky" type="button">I'm feeling lucky</button>
+
+    </div>
+
+    <div id="searchResults">
+
+    </div>
+
+    <div id="time" title="The time is: ">
+        
+    </div>
+
+</body>
+
+</html>

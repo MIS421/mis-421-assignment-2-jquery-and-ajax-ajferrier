@@ -10,9 +10,9 @@ function apiSearch() {
   };
 
   $.ajax({
-      url: 'my-api-url' + $.param(params),
+      url: 'https://management.azure.com/' + $.param(params),
       beforeSend: function (xhrObj) {
-        xhrObj.setRequestHeader("Ocp-Apim-Subscription-Key", "my-api-key");
+          xhrObj.setRequestHeader("Ocp-Apim-Subscription-Key", "33b251e2ee8b4ae59ee418e5411ffb41");
       },
       type: "GET",
     })

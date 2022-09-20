@@ -1,0 +1,93 @@
+
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+       font-size: 16px;
+    }
+}
+
+html {
+   position: relative;
+   min-height: 100%;
+}
+
+body {
+    background-image: url(https://images.unsplash.com/photo-1662658825198-ef6c94c8617d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1332&q=80);
+    margin-bottom: 60px;
+    background-size: cover;
+}
+
+searchResults {
+    display: none;
+}
+
+time {
+    display: none;
+}
+
+#Title {
+    color: springgreen;
+    text-align: center;
+}
+
+#query {
+    resize: horizontal; width: 400px; height: 20px;
+}
+
+
+#firstdiv {
+    text-align: center;
+    padding: 50px;
+    opacity: 90%;
+}
+#seconddiv {
+    text-align: center;
+
+}
+
+#inputlabel {
+    color:ghostwhite;
+}
+
+#search {
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 3px;
+    border: solid;
+    border-radius: 10%;
+    border-block-color: aquamarine;
+    color: darkblue;
+}
+
+#datetime {
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 3px;
+    border: solid;
+    border-radius: 10%;
+    border-block-color: aquamarine;
+    color: darkblue;
+}
+
+#showtime {
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 3px;
+    border: solid;
+    border-radius: 10%;
+    border-block-color: aquamarine;
+    color: darkblue;
+}
+
+#lucky {
+    background-color: antiquewhite;
+    text-align: center;
+    padding: 3px;
+    border: solid;
+    border-radius: 10%;
+    border-block-color: aquamarine;
+    color: darkblue;
+}
