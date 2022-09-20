@@ -1,0 +1,7 @@
+C:\Users\ajfer\source\repos\mis-421-assignment-2-jquery-and-ajax-ajferrier\assignment2-aferrier\assignment2-aferrier\obj\Release\net6.0\PubTmp\Out\assignment2-aferrier.exe
+C:\Users\ajfer\source\repos\mis-421-assignment-2-jquery-and-ajax-ajferrier\assignment2-aferrier\assignment2-aferrier\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\ajfer\source\repos\mis-421-assignment-2-jquery-and-ajax-ajferrier\assignment2-aferrier\assignment2-aferrier\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\ajfer\source\repos\mis-421-assignment-2-jquery-and-ajax-ajferrier\assignment2-aferrier\assignment2-aferrier\obj\Release\net6.0\PubTmp\Out\assignment2-aferrier.dll
+C:\Users\ajfer\source\repos\mis-421-assignment-2-jquery-and-ajax-ajferrier\assignment2-aferrier\assignment2-aferrier\obj\Release\net6.0\PubTmp\Out\assignment2-aferrier.deps.json
+C:\Users\ajfer\source\repos\mis-421-assignment-2-jquery-and-ajax-ajferrier\assignment2-aferrier\assignment2-aferrier\obj\Release\net6.0\PubTmp\Out\assignment2-aferrier.runtimeconfig.json
+C:\Users\ajfer\source\repos\mis-421-assignment-2-jquery-and-ajax-ajferrier\assignment2-aferrier\assignment2-aferrier\obj\Release\net6.0\PubTmp\Out\assignment2-aferrier.pdb

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="assignment2-aferrier20220920172607" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\ajfer\\source\\repos\\mis-421-assignment-2-jquery-and-ajax-ajferrier\\assignment2-aferrier\\assignment2-aferrier\\obj\\Release\\net6\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
